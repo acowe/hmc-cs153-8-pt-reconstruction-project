@@ -1,2 +1,2 @@
-# hmc-cs153-8-pt-reconstruction-project
+# Eight Point Reconstruction Jupyter Notebook Demo
 This repository contains a jupyter notebook demo and setup instructions
