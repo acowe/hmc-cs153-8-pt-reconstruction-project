@@ -9,3 +9,6 @@ Our demo requires the following python dependencies:
 
 Should you have these dependencies installed, you are all set to start the demo by downloading the project file, 
 then open the included notebook in jupyter notebook (either by typing 'jupyter notebook' into the terminal and running it from there or opening it in VSCode).
+
+Note: This notebook also serves as a the final project report; 
+Additional information regarding results and possible changes to be made are listed there.
